@@ -302,4 +302,4 @@ func portSplit(portRange *string) (uint16, uint16) {
     return uint16(minPort), uint16(maxPort)
 }
 
-func main() { }
+
