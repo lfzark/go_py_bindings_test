@@ -15,7 +15,7 @@ import (
     "strings"
     "time"
     "errors"
-    "github.com/go-python/gopy/_examples/cpkg"
+    "github.com/go-python/gopy"
 )
 
 //TCPHeader test
